@@ -49,7 +49,7 @@ public class IF110119011Latihan17Tunjangan {
         System.out.println("Gaji pokok  : Rp " + gajipokok);
         System.out.println("Tunjangan   : Rp " + tunjangan);
         System.out.println("Total gaji  : Rp " + totalgaji);
-                
+        System.out.println("(Developed by : Reihan Wiyanda)");
     }
     
 }
